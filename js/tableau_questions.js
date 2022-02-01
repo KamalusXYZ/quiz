@@ -1,20 +1,28 @@
 const tableauQuestions = [
 
     {
-        question: "Quel est xxx?",
+        question: "Quel est 1?",
         reponseA: "lorem1",
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
-        question: "Quel est testxxx?",
+        question: "Quel est 2?",
         reponseA: "xxxxxx",
         reponseB: "xxxxxx",
         reponseC: "xxxxxx",
         reponseD: "xxxxxxx",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
+    },
+    {
+        question: "Quel est 3?",
+        reponseA: "lorem1",
+        reponseB: "lorem2",
+        reponseC: "lorem3",
+        reponseD: "lorem4",
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -22,7 +30,7 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -30,7 +38,7 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -38,7 +46,7 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -46,7 +54,7 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -54,7 +62,7 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -62,7 +70,7 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
         question: "Quel est xxx?",
@@ -70,23 +78,15 @@ const tableauQuestions = [
         reponseB: "lorem2",
         reponseC: "lorem3",
         reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
     {
-        question: "Quel est xxx?",
-        reponseA: "lorem1",
-        reponseB: "lorem2",
-        reponseC: "lorem3",
-        reponseD: "lorem4",
-        reponseCorrecte: "lorem1"
-    },
-    {
-        question: "Quel est xxx?",
+        question: "Quel est dernier?",
         reponseA: "a",
         reponseB: "b",
         reponseC: "c",
         reponseD: "d",
-        reponseCorrecte: "lorem1"
+        reponseCorrecte: "a"
     },
 
 ]
